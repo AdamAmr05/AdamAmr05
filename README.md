@@ -26,4 +26,6 @@ A basketball game I rebuilt around a more nuanced scoring model. Reached more th
 **[CampusCare](https://adamamr.me/projects/campuscare/)**  
 A mobile app for reporting university maintenance issues, assigning the work, and following it through resolution and approval.
 
+[Explore my portfolio →](https://adamamr.me/)
+
 [LinkedIn](https://www.linkedin.com/in/adam-amr)

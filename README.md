@@ -1,6 +1,6 @@
 # Hey, I’m Adam. 👋
 
-I build software, from the idea and backend architecture to how it works and feels. I care a little too much sometimes.
+I build software, from the idea and backend architecture to how it works, looks and feels. I care a little too much sometimes.
 
 ### Selected work
 
